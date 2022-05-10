@@ -1,0 +1,15 @@
+{
+  "name": "process-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["csv-parser", "parse", "csv"],
+  "author": "Sudip Aryal",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.0.4"
+  }
+}
